@@ -1,0 +1,1 @@
+O software para controle e gerenciamento de PaintBall visa reduzir os custos operacionais bem como de mão-de-obra, transferindo tarefas feitas em papel ou em planilhas eletrônicas avulsas para um único sistema, consistentemente integrado ao estabelecimento, diminuindo o tempo gasto com essas tarefas e desta forma, liberando recursos para serem melhor aproveitados em outras áreas.
